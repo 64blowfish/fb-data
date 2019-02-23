@@ -7,5 +7,3 @@
 [![HitCount](http://hits.dwyl.io/64blowfish/fb-data.svg)](http://hits.dwyl.io/64blowfish/fb-data)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
-Resources
-* Travis CI https://github.com/dwyl/learn-travis
